@@ -1,0 +1,40 @@
+span {
+    color: red;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.footer {
+    background-color: #191919;
+    color: #fff;
+    padding: 2em;
+    display: flex;
+    justify-content: space-between;
+    border-top-left-radius: 125px;
+    border-top-right-radius: 125px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:100px;
+    
+}
+
+.footer-title {
+    font-size: 1.3em;
+    font-weight: 600;
+}
+
+.footer-title span {
+    color: #3a6cf4;
+}
+
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  }
